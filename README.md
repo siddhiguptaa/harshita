@@ -1,8 +1,8 @@
 
-<h3 align="center">
-  Welcome to Harshita Bajaj's profile!
+<div align="center">
+  #Welcome to Harshita Bajaj's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> 
+</div> 
 
 ![Peek 2020-07-09 15-53]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7FDFF&size=30&lines=I+am+an+ML%2FAL+Enthusiast)](https://git.io/typing-svg)
 
